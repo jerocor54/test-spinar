@@ -1,0 +1,12 @@
+
+table {
+    width: 100%;
+    text-align: center !important;
+}
+
+.mat-header-cell {
+    text-align: center !important;
+    font-weight: bold !important;
+    background-color: #475569;
+    color: #fff;
+}
