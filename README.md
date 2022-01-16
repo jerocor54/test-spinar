@@ -1,14 +1,14 @@
 # test-spinar
 
-Ejecutar npm install para descargar las librerías necesarias
+Ejecutar `npm install` para descargar las librerías necesarias (/server y /test-angular-fontend)
 
 ## Development test-spinar/server
 
-Ejecutar npm run dev para levantar el servidor (http://localhost:3000)
+Ejecutar `npm run dev` para levantar el servidor (http://localhost:3000)
 
 ## Build test-spinar/server
 
-Ejecutar npm run build para generar archivos de producción (/dist)
+Ejecutar `npm run build` para generar archivos de producción (/dist)
 
 ## Development test-spinar/test-angular-fontend
 
